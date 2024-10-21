@@ -2,7 +2,7 @@
 
 ## Usage
 
-To train GCN model run: `python main.py --dataset dataset` command. results for 'cora, citeseer, pubmed and reddit' datasets are saved in results folder.
+To train GCN model run: `python main.py --dataset dataset` command. results for `cora, citeseer, pubmed and reddit` datasets are saved in results folder.
  
 For compiling the kernel, enter the following command in the `deep-codegen` directory:
 ```bash
